@@ -1,0 +1,15 @@
+img{
+    width: 500px;
+    height: auto;
+}
+#main{
+    padding: 200px;
+    border-radius: 50px;
+    background: #eee;
+    text-align: center;
+}
+ul{
+    width: 80%;
+    text-align: left;
+    margin:  0 auto;
+}
